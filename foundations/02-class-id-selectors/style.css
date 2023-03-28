@@ -1,0 +1,18 @@
+.odds {
+    /* background-color: hsl(321, 100%, 68%); */
+    /* background-color: rgb(255, 133, 161); */
+    background-color: #ff7d8c;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+.emph {
+    font-size: 24px;
+}
+#num2 {
+    color: #00f;
+    font-size: 36px;
+}
+#num4 {
+    background-color: #a3ffbf;
+    font-size: 24px;
+    font-weight: bold;
+}
